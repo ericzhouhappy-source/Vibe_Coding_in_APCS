@@ -1,5 +1,11 @@
 ## 這是酷課雲 寒假講座 -- 是"Vibe APCS “,是好事嗎？
 
+[Github 使用介紹]()
+
+[如何整理儲存chatgpt 產出的資料 講座介紹 -- Markdown 介紹](https://www.codingcoffee.org/courses/juniorcodingcoffee)
+
+
+
 | **學習目標** |  | 了解 Vibe Coding .與 在程式學習過程 Vibe Coding 工具對你的幫助 |
 
 | **配合事項** |  | 建議64位元筆電： 系統需求：Windows（版本10以上）或macOS（版本10.13以上） 硬體需求：硬碟空間5GB、記憶體4GB空閒、CPU:Intel Core i5-4690或AMD A10-7800以上 具視訊鏡頭 |
