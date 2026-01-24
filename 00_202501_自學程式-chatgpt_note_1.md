@@ -1,4 +1,4 @@
-### question : **APCS 是什麼？**
+### Q : **APCS 是什麼？**
 
 **APCS** 全名為 **Advanced Placement Computer Science**，是由美國大學理事會（College Board）設計的一門 **計算機科學課程**，旨在為高中生提供大學程度的計算機科學教育。同時，APCS 考試提供高中生機會可以在高中期間修習並獲得大學學分，對於計畫申請大學的學生非常有幫助。
 
